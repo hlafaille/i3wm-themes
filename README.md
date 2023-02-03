@@ -10,7 +10,7 @@
   <ul>
     <li> i3-wm in any Linux distro you prefer</li>
     <li> <a href="https://github.com/jaagr/polybar">Polybar</a> (for most of the themes)</li>
-    <li> <a href="https://davedavenport.github.io/rofi/">Rofi</a> (for most of the themes)</li>
+    <li> <a href="https://github.com/davatorium/rofi">Rofi</a> (for most of the themes)</li>
     <li> Firefox Themes can be installed using the "Stylish" extension</li>
   </ul>
   
